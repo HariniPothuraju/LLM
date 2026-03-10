@@ -1,1 +1,9 @@
-API_KEY = "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"
+
+#pip install streamlit groq python-dotenv
+
+
+streamlit
+groq
+python-dotenv
+
+
